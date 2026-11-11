@@ -5,23 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="df255127-44f8-4ce4-a251-812c83b15510" name="Changes" comment="Подключение к бд и импорт данных">
-      <change afterPath="$PROJECT_DIR$/.idea/MiracleShoesShop.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/Orders_import.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/Products_import.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/Sizes_import.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/Stock_Items_import.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/Users_import.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/db/config.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/db/connect_db.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/db/import_data.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_db.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/icon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/placeholder.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ui/style.qss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/widgets/item_card.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,7 +45,8 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/user/Documents/MeracleShoesShop&quot;
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/user/Documents/MeracleShoesShop&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;
   }
 }</component>
   <component name="RecentsManager">
@@ -63,11 +54,12 @@
       <recent name="C:\Users\user\Documents\MeracleShoesShop\data" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\user\Documents\MeracleShoesShop\resources" />
       <recent name="C:\Users\user\Documents\MeracleShoesShop\db" />
       <recent name="C:\Users\user\Documents\MeracleShoesShop\data" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.import_data">
+  <component name="RunManager" selected="Python.main">
     <configuration name="import_data" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="MiracleShoesShop" />
       <option name="ENV_FILES" value="" />
@@ -134,6 +126,15 @@
       <option name="presentableId" value="Default" />
       <updated>1793896267950</updated>
     </task>
+    <task id="LOCAL-00001" summary="Подключение к бд и импорт данных">
+      <option name="closed" value="true" />
+      <created>1794332899145</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1794332899145</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">

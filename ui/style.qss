@@ -1,0 +1,7 @@
+QMainWindow, QDialog { background-color: #FFFFFF; }
+QLabel { background: transparent; color: #000000; }
+QScrollArea, #qt_scrollarea_viewport, #scrollAreaWidgetContents { background-color: #FFFFFF; }
+
+QPushButton { background-color: #D2F6E7; padding: 6px 14px; }
+
+QLineEdit, QComboBox { background-color: #D2F6E7; padding: 4px; }
